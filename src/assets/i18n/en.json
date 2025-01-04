@@ -1,0 +1,104 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "montu_resume.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "<span class='underline'>Full-stack web developer</span> with six months of internship experience in building modern, responsive web applications. Skilled in <span class='underline'> React, Node.js, and full-stack development</span>, I create efficient and user-friendly digital solutions.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In addition to my full-stack expertise, I have also built and tested APIs, and optimized backend code with <span class='underline'>ExpressJS</span>, <span class='underline'>NodeJS</span>, and databases such as <span class='underline'>MongoDB</span> and <span class='underline'>MySQL</span>. I am committed to continuous learning and strive to bring creativity and efficiency to every project I work on.",
+
+    "My approach involves leveraging my MERN stack knowledge, implementing system improvements, standardizing patterns, and actively suggesting and executing ideas that enhance the projects I'm involved in. I value teamwork and collaboration and always aim to deliver quality work that exceeds expectations."
+
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Felix",
+      "Title": "Fullstack Trainee",
+      "name": "Felix IT Systems",
+      "Date": "June 2024 - Present",
+      "Description": [
+        "Developed and maintained web-based applications using React, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
+        "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
+        "Built a custome theme and desgined web page for various bussiness.",
+        "Implemented continuous smooth SAAS and customer support services",
+        "Created modules with complex and dynamic forms, ensuring seamless user interaction across applications."
+      ]
+    },
+
+    {
+      "Tab": "Amity",
+      "Title": "BAchelor Of Computer Application Student ",
+      "Date": "July 2024 - Present",
+      "name": "Amity University Noida",
+      "Description": [
+        "Pursuing a Bachelor of Computer Application (BCA) at Amity University.",
+        "Developed and maintained web applications using React.",
+        "Gained experience in coding API requests with RxJS.",
+        "Improved website performance by optimizing images and implementing caching techniques.",
+        "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences."
+
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Projects I made from Scratch",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Responsive-Sign-In-and-Up-Page",
+      "Description": "The project description is: Interactive forms for signing in and signing up, with input fields for username, email, and password. Options to sign in or sign up via social media platforms like Facebook, Twitter, Google, and LinkedIn. Responsive design elements such as dynamic panels that switch between sign-in and sign-up modes using JavaScript",
+      "demoLink": "https://github.com/monturaja/Responsive-Sign-In-and-Up-Page",
+      "imgs": [
+        "assets/images/ecommerce/e-commerce2.png",
+        "assets/images/ecommerce/e-commerce1.png"
+      ],
+      "Technologies": [
+       "HTML",
+       "CSS",
+       "JAVASCRIPT",
+       "BOOTSTRAP"
+      ]
+    },
+    {
+      "Title": "Social-Media-Icons-with-3D-Effect",
+      "Description": "This project demonstrates the creation of social media icons styled with a 3D button effect using HTML and CSS. The icons, which include Facebook, Twitter, Google Plus, LinkedIn, and Instagram, are designed to be interactive and visually appealing",
+      "imgs": [
+        "assets/images/ftm/ftm1.png",
+        "assets/images/ftm/ftm2.png",
+        "assets/images/ftm/ftm3.png"
+      ],
+      "demoLink": "https://github.com/monturaja/Social-Media-Icons-with-3D-Effect",
+      "Technologies": ["HTML", "CSS", "BOOTSTRAP"]
+    },
+    {
+      "Title": "Glowing-Interactive-Buttons",
+      "Description": "This project demonstrates an interactive web interface with dynamically responsive buttons that react to pointer movement. The main features include: 1. Interactive Pointer Tracking: 2. Dynamic Styling Using CSS Variables: 3. Glowing Button Interface: 4. Purpose and Branding",
+      "demoLink": "https://github.com/monturaja/Glowing-Interactive-Buttons-for-Felix-IT-Systems",
+      "imgs": [
+        "assets/images/bbm/image1.png",
+        "assets/images/bbm/image2.png",
+        "assets/images/bbm/image3.png"
+      ],
+      "Technologies": ["HTML", "CSS", "JAVASCRIPT"]
+    }
+  ],
+  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "",
+      "Description": "",
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [""]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+  "Contact.Btn": "Say Hello"
+}
