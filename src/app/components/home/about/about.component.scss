@@ -106,3 +106,26 @@
     }
 }
 
+.about-img-container {
+    border-color: aqua;
+    border: 25px aqua;
+    width: 500px;
+    display: flex;
+    top: 33px;
+    position: relative;
+    background-color: aqua;
+    height: 500px;
+    justify-content: center;
+    /* overflow: hidden; */
+    border-radius: 50%;
+}
+
+.about-img-container img {
+    z-index: 2;
+    position: relative;
+    border-radius: 50%;
+    width: max-content;
+    height: 500px;
+}
+ 
+ 
